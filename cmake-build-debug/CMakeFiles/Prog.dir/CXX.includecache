@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aluno/CLionProjects/Lista_PalavrasRepetidas/Terminal.h
+string
+-
+unistd.h
+-
+vector
+-
+
+/home/aluno/CLionProjects/Lista_PalavrasRepetidas/main.cpp
+iostream
+-
+list
+-
+string
+-
+fstream
+-
+Terminal.h
+/home/aluno/CLionProjects/Lista_PalavrasRepetidas/Terminal.h
+
